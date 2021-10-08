@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayStoreDL</string>
+    <string name="tv_url_hint">URL Or Package Name</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_get_link">Get Link</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_download">Download</string>
+    <string name="tv_author">ICT_Man</string>
+</resources>
